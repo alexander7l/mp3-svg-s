@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000000"><path d="M660-240v-480h80v480h-80Zm-440 0v-480l360 240-360 240Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px">
+  <defs>
+    <linearGradient id="gradAzul" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#0000CC"/>
+      <stop offset="100%" stop-color="#3A00FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gradAzul)" d="M660-240v-480h80v480h-80Zm-440 0v-480l360 240-360 240Z"/>
+</svg>

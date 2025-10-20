@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px" fill="#000000"><path d="M280-80 120-240l160-160 56 58-62 62h406v-160h80v240H274l62 62-56 58Zm-80-440v-240h486l-62-62 56-58 160 160-160 160-56-58 62-62H280v160h-80Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px">
+  <defs>
+    <linearGradient id="gradMorado" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#8000C0"/>
+      <stop offset="100%" stop-color="#C040FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#gradMorado)" d="M280-80 120-240l160-160 56 58-62 62h406v-160h80v240H274l62 62-56 58Zm-80-440v-240h486l-62-62 56-58 160 160-160 160-56-58 62-62H280v160h-80Z"/>
+</svg>
